@@ -6,7 +6,7 @@ This is an income and expense App for your daily expenses.
 ★ What I use ★
 
 ✔️ React Hooks (useState, useContext, useReducer)
-✔️ context API
+✔️ Context API
 
 See the Demo: 
 
