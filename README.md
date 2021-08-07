@@ -1,16 +1,12 @@
 ## Expentra
 ###  `(Income and Expense App)`
 <b> Expentra: </b>
-This is an income and expense App for your daily expenses, which will make you save money. Use this daily expense manager to keep
-under control all your finances in a simple way.
+This is an income and expense App for your daily expenses.
 
-You can easily keep track of your bills, income and expenses for your personal finance or as an income and expense App for business.
+★ What I use ★
 
-★ Features ★
-
-✔️ No-brainer, with this its simple and attractive design, this money manager lets you organise your daily expenses easily.
-
-✔️ You'll be able to use the app always for free.
+✔️ React Hooks (useState, useContext, useReducer)
+✔️ context API
 
 See the Demo: 
 
